@@ -1,0 +1,14 @@
+{
+  "name": "information-resource-planning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:LuckRain7/information-resource-planning.git",
+  "author": "LuckRain <763839938@qq.com>",
+  "license": "None",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "git": "git push gitee master&& git push github master",
+    "deploy": "bash deploy.sh"
+  }
+}
