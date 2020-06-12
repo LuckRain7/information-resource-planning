@@ -2,6 +2,8 @@
 
 <a href="/information-resource-planning/第4章IRP技术-需求分析.html" target="_blank">第 4 章 IRP 技术— 需求分析</a>
 
+<a href="/information-resource-planning/第5章IRP技术-系统建模.html" target="_blank">第 5 章 IRP 技术— 系统建模</a>
+
 ::: tip 建模流程
 
 1、研制职能域模型，形成 <span style="color:red;">职能域模型模型</span>
@@ -34,6 +36,20 @@
 
 < 👇 >
 
-7、进行数据流分析。形成 <span style="color:red;">一级数据流程图、二级数据流程图</span>
+8、进行数据流分析。形成 <span style="color:red;">一级数据流程图、二级数据流程图</span>
+
+< 👇 >
+
+9、进行数据存储分析。形成 <span style="color:red;">数据存储分析表</span>
+
+:::
+
+## 第五章 系统建模
+
+::: tip 系统建模
+
+1、研制职能域模型，形成 <span style="color:red;">职能域模型模型</span>
+
+< 👇 >
 
 :::
