@@ -76,13 +76,13 @@ example：
 
 系统的功能模型(Function Model）是对规划系统功能结构的概括性表示，采用“子系统 一功能模块 一程序模块”的层次结构来描述。
 
-![image-20200617081316691](C:\Users\ZHCZ\AppData\Roaming\Typora\typora-user-images\image-20200617081316691.png)
+![image-20200617081316691](https://raw.githubusercontent.com/LuckRain7/images/master/information-resource-planning/image-20200617081316691.png)
 
 ### 5.3.2 功能建模的分析研究工作
 
 由业务模型研制出功能模型的主要分析工作是对业务过程和业务活动作计算机化的可 行性分析。业务模型是对现行系统功能的概括性认识，功能模型是对新系统功能的概括性 认识，两者大体存在如下的对应关系：
 
-![image-20200617081732330](C:\Users\ZHCZ\AppData\Roaming\Typora\typora-user-images\image-20200617081732330.png)
+![image-20200617081732330](https://raw.githubusercontent.com/LuckRain7/images/master/information-resource-planning/image-20200617081732330.png)
 
 <span style="color:red;"> 注意 ： </span>
 这决不是一种简单的对应关系。因为，除了规划人员在调研阶段和建模阶段的认识有 所不同而导致两个模型的关健成分、相互关系和内部逻辑顺序有所不同之外，更重要的是 功能模型的研制要进行更为深入的分析研究工作，其中包括运用计算机与信息系统的若干 专业知识
@@ -131,11 +131,11 @@ example：
 
 - 每一功能模块需要用短文加以描述，而程序模块则不必描述。
 
-![image-20200617085005551](C:\Users\ZHCZ\AppData\Roaming\Typora\typora-user-images\image-20200617085005551.png)
+![image-20200617085005551](https://raw.githubusercontent.com/LuckRain7/images/master/information-resource-planning/image-20200617085005551.png)
 
 ![image-20200617085021259](C:\Users\ZHCZ\AppData\Roaming\Typora\typora-user-images\image-20200617085021259.png)
 
-![image-20200617085040989](C:\Users\ZHCZ\AppData\Roaming\Typora\typora-user-images\image-20200617085040989.png)
+![image-20200617085040989](https://raw.githubusercontent.com/LuckRain7/images/master/information-resource-planning/image-20200617085040989.png)
 
 #### 3．系统功能模型的讨论复查
 
@@ -163,7 +163,7 @@ example：
 
 (3)企业已有应用系统行之有效的功能模块或程序模块应予以继承，还有其他应用软 件的有用模块也应该吸收，这些模块也被加进系统功能模型（见图 5.3 右边部分及其左向 箭头）。
 
-![image-20200617085811107](C:\Users\ZHCZ\AppData\Roaming\Typora\typora-user-images\image-20200617085811107.png)
+![image-20200617085811107](https://raw.githubusercontent.com/LuckRain7/images/master/information-resource-planning/image-20200617085811107.png)
 
 <span style="color:red;"> 需要着重说明的是，功能建模拟定的子系统是“逻辑子系统”（面向规划、设计人员）， 而不是“物理子系统”（面向最终用户）</span>
 
@@ -172,13 +172,13 @@ example：
 ## 5.4 系统数据建模
 
 系统数据建模就是要解决系统的“信息组织”问题。这是信息资源规划的核心部分,是数据环境重建的根本保障。
-![image-20200617090509447](C:\Users\ZHCZ\AppData\Roaming\Typora\typora-user-images\image-20200617090509447.png)
+![image-20200617090509447](https://raw.githubusercontent.com/LuckRain7/images/master/information-resource-planning/image-20200617090509447.png)
 
 ### 5.4.1 数据建模的预备知识
 
 #### 1．实体与关系
 
-![image-20200617090631648](C:\Users\ZHCZ\AppData\Roaming\Typora\typora-user-images\image-20200617090631648.png)
+![image-20200617090631648](https://raw.githubusercontent.com/LuckRain7/images/master/information-resource-planning/image-20200617090631648.png)
 
 #### 2．表及其属性
 
@@ -198,7 +198,7 @@ example：
 
 #### 4. E- R 图
 
-![image-20200617090848319](C:\Users\ZHCZ\AppData\Roaming\Typora\typora-user-images\image-20200617090848319.png)
+![image-20200617090848319](https://raw.githubusercontent.com/LuckRain7/images/master/information-resource-planning/image-20200617090848319.png)
 
 ![image-20200617090856739](C:\Users\ZHCZ\AppData\Roaming\Typora\typora-user-images\image-20200617090856739.png)
 
@@ -221,9 +221,9 @@ example：
 
 数据库名称（数据内容列表……）
 
-![image-20200617091222376](C:\Users\ZHCZ\AppData\Roaming\Typora\typora-user-images\image-20200617091222376.png)
+![image-20200617091222376](https://raw.githubusercontent.com/LuckRain7/images/master/information-resource-planning/image-20200617091222376.png)
 
-![image-20200617091258264](C:\Users\ZHCZ\AppData\Roaming\Typora\typora-user-images\image-20200617091258264.png)
+![image-20200617091258264](https://raw.githubusercontent.com/LuckRain7/images/master/information-resource-planning/image-20200617091258264.png)
 
 <span style="color:red;">注意 ：</span>
 不要以为上面列出的五个概念的主题数据库（它们构成了工程管理系统的概念数据模 型），是简单的事情。事实上，如何使规划组成员与业务领导达成共识，对工程管理的业 务主题能有如此高度的抽象认识，是一种相当复杂的认识过程。我们是经过多次讨论（甚 至是激烈的争论），几经修改，才有如此“简单”的表述。
@@ -252,7 +252,7 @@ example：
 - 按业务需要进一步分析实体的属性，规范化数据结构产生基本表，提出逻辑数据模型
 - 数据元素规范化，进一步审核基本表的组成
 
-![image-20200617091616446](C:\Users\ZHCZ\AppData\Roaming\Typora\typora-user-images\image-20200617091616446.png)
+![image-20200617091616446](https://raw.githubusercontent.com/LuckRain7/images/master/information-resource-planning/image-20200617091616446.png)
 
 #### 3．基本表与数据元素规范化
 
