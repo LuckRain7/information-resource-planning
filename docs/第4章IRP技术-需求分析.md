@@ -137,6 +137,12 @@ x（族码【A-Z】）
 
 例如， 上例的用户视图生存期是“月” ， 编码是“5" 。 如果该申报表要保留一年， 那么生存期就要改为“年” ， 编码是“7 " 。
 
+
+
+**用户视图登记数**
+
+![image-20200706162103024](https://raw.githubusercontent.com/LuckRain7/images/master/information-resource-planning/image-20200706162103024.png)
+
 #### 4.3.1.1 用户视图组成
 
 | 序号 | 数据项／元素名称 | 数据项／元素定义 |
